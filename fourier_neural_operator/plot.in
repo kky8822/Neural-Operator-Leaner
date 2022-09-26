@@ -1,0 +1,5 @@
+set term png
+set output "log.png"
+
+p 'log.dat' u 1:4 w l,\
+  'log.dat' u 1:5 w l

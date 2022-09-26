@@ -1,0 +1,5 @@
+500 0.001 100 0.5
+torch.Size([1000, 64, 64, 40])
+torch.Size([200, 64, 64, 40])
+preprocessing finished, time used: 2.7441147845238447
+926517

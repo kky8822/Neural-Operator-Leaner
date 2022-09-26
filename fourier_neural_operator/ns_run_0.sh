@@ -1,0 +1,79 @@
+# python fourier_3d.py ns_V1000_N5000_T50.mat 10 10 model_FNO3D_ns_V1000_Ffix_T1024_V200_10to10.pt result_FNO3d_ns_V1000_Ffix_T1024_V200_10to10.pt  gif_FNO3d_ns_V1000_Ffix_T1024_V200_10to10.mat cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50.mat 10 40 model_FNO3D_ns_V1000_Ffix_T1024_V200_10to40.pt result_FNO3d_ns_V1000_Ffix_T1024_V200_10to40.pt  gif_FNO3d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 10 model_FNO3D_ns_V10000_Ffix_T1024_V200_10to10.pt result_FNO3d_ns_V10000_Ffix_T1024_V200_10to10.pt gif_FNO3d_ns_V10000_Ffix_T1024_V200_10to10.mat cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat 10 10 model_FNO3D_ns_V1000_Fvar_T1024_V200_10to10.pt result_FNO3d_ns_V1000_Fvar_T1024_V200_10to10.pt  gif_FNO3d_ns_V1000_Fvar_T1024_V200_10to10.mat cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat 10 40 model_FNO3D_ns_V1000_Fvar_T1024_V200_10to40.pt result_FNO3d_ns_V1000_Fvar_T1024_V200_10to40.pt  gif_FNO3d_ns_V1000_Fvar_T1024_V200_10to40.mat cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 10 model_FNO3D_ns_V10000_Fvar_T1024_V200_10to10.pt result_FNO3d_ns_V10000_Fvar_T1024_V200_10to10.pt gif_FNO3d_ns_V10000_Fvar_T1024_V200_10to10.mat cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 40 model_FNO3D_ns_V10000_Fvar_T1024_V200_10to40.pt result_FNO3d_ns_V10000_Fvar_T1024_V200_10to40.pt gif_FNO3d_ns_V10000_Fvar_T1024_V200_10to40.mat cuda:0
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat 10 10 model_FNO3D_ns_Vmix_Fvar_T1024_V200_10to10.pt result_FNO3d_ns_Vmix_Fvar_T1024_V200_10to10.pt gif_FNO3d_ns_Vmix_Fvar_T1024_V200_10to10.mat cuda:0
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat 10 40 model_FNO3D_ns_Vmix_Fvar_T1024_V200_10to40.pt result_FNO3d_ns_Vmix_Fvar_T1024_V200_10to40.pt gif_FNO3d_ns_Vmix_Fvar_T1024_V200_10to40.mat cuda:0
+
+# python fourier_2d_time.py ns_V1000_N5000_T50.mat 10 10 model_FNO2d_ns_V1000_Ffix_T1024_V200_10to10.pt result_FNO2d_ns_V1000_Ffix_T1024_V200_10to10.pt  gif_FNO2d_ns_V1000_Ffix_T1024_V200_10to10.mat cuda:1
+# python fourier_2d_time.py ns_V1000_N5000_T50.mat 10 40 model_FNO2d_ns_V1000_Ffix_T1024_V200_10to40.pt result_FNO2d_ns_V1000_Ffix_T1024_V200_10to40.pt  gif_FNO2d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:1
+# python fourier_2d_time.py ns_V10000_N5000_T50.mat 10 10 model_FNO2d_ns_V10000_Ffix_T1024_V200_10to10.pt result_FNO2d_ns_V10000_Ffix_T1024_V200_10to10.pt gif_FNO2d_ns_V10000_Ffix_T1024_V200_10to10.mat cuda:1
+# python fourier_2d_time.py ns_V10000_N5000_T50.mat 10 40 model_FNO2d_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO2d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO2d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:1
+
+# python fourier_2d_time.py ns_V1000_N5000_T50_var_f.mat 10 10 model_FNO2d_ns_V1000_Fvar_T1024_V200_10to10.pt result_FNO2d_ns_V1000_Fvar_T1024_V200_10to10.pt  gif_FNO2d_ns_V1000_Fvar_T1024_V200_10to10.mat cuda:1
+# python fourier_2d_time.py ns_V1000_N5000_T50_var_f.mat 10 40 model_FNO2d_ns_V1000_Fvar_T1024_V200_10to40.pt result_FNO2d_ns_V1000_Fvar_T1024_V200_10to40.pt  gif_FNO2d_ns_V1000_Fvar_T1024_V200_10to40.mat cuda:1
+# python fourier_2d_time.py ns_V10000_N5000_T50_var_f.mat 10 10 model_FNO2d_ns_V10000_Fvar_T1024_V200_10to10.pt result_FNO2d_ns_V10000_Fvar_T1024_V200_10to10.pt gif_FNO2d_ns_V10000_Fvar_T1024_V200_10to10.mat cuda:1
+# python fourier_2d_time.py ns_V10000_N5000_T50_var_f.mat 10 40 model_FNO2d_ns_V10000_Fvar_T1024_V200_10to40.pt result_FNO2d_ns_V10000_Fvar_T1024_V200_10to40.pt gif_FNO2d_ns_V10000_Fvar_T1024_V200_10to40.mat cuda:1
+# python fourier_2d_time.py ns_Vmix_N3000_T50_var_f.mat 10 10 model_FNO2d_ns_Vmix_Fvar_T1024_V200_10to10.pt result_FNO2d_ns_Vmix_Fvar_T1024_V200_10to10.pt gif_FNO2d_ns_Vmix_Fvar_T1024_V200_10to10.mat cuda:1
+# python fourier_2d_time.py ns_Vmix_N3000_T50_var_f.mat 10 40 model_FNO2d_ns_Vmix_Fvar_T1024_V200_10to40.pt result_FNO2d_ns_Vmix_Fvar_T1024_V200_10to40.pt gif_FNO2d_ns_Vmix_Fvar_T1024_V200_10to40.mat cuda:1
+
+
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat 10 10 model_ns_V1000_Fvar_T1024_V200_10to10.pt result_ns_V1000_Fvar_T1024_V200_10to10.pt cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat 10 40 model_ns_V1000_Fvar_T1024_V200_10to40.pt result_ns_V1000_Fvar_T1024_V200_10to40.pt cuda:0 model_ns_V1000_Fvar_T1024_V200_10to40_epoch91.pt result_ns_V1000_Fvar_T1024_V200_10to40_epoch91.pt
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 10 model_ns_V10000_Fvar_T1024_V200_10to10.pt result_ns_V10000_Fvar_T1024_V200_10to10.pt cuda:0 False False
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 40 model_ns_V10000_Fvar_T1024_V200_10to40.pt result_ns_V10000_Fvar_T1024_V200_10to40.pt cuda:0 False False
+
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat 10 10 model_ns_Vmix_Fvar_T1024_V200_10to10.pt result_ns_Vmix_Fvar_T1024_V200_10to10.pt cuda:1 False False
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat 10 40 model_ns_Vmix_Fvar_T1024_V200_10to40.pt result_ns_Vmix_Fvar_T1024_V200_10to40.pt cuda:1 False False
+
+# python fourier_3d.py ns_V1000_N5000_T50.mat        10 10 rk2 model_ns_V1000_Ffix_T1024_V200_10to10_rk2.pt  result_ns_V1000_Ffix_T1024_V200_10to10_rk2.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat       10 10 rk2 model_ns_V10000_Ffix_T1024_V200_10to10_rk2.pt result_ns_V10000_Ffix_T1024_V200_10to10_rk2.pt cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat  10 10 rk2 model_ns_V1000_Fvar_T1024_V200_10to10_rk2.pt  result_ns_V1000_Fvar_T1024_V200_10to10_rk2.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 10 rk2 model_ns_V10000_Fvar_T1024_V200_10to10_rk2.pt result_ns_V10000_Fvar_T1024_V200_10to10_rk2.pt cuda:1
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat   10 10 rk2 model_ns_Vmix_Fvar_T1024_V200_10to10_rk2.pt   result_ns_Vmix_Fvar_T1024_V200_10to10_rk2.pt   cuda:1
+
+# python fourier_3d.py ns_V1000_N5000_T50.mat        10 40 rk2 model_ns_V1000_Ffix_T1024_V200_10to40_rk2.pt  result_ns_V1000_Ffix_T1024_V200_10to40_rk2.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat       10 40 rk2 model_ns_V10000_Ffix_T1024_V200_10to40_rk2.pt result_ns_V10000_Ffix_T1024_V200_10to40_rk2.pt cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat  10 40 rk2 model_ns_V1000_Fvar_T1024_V200_10to40_rk2.pt  result_ns_V1000_Fvar_T1024_V200_10to40_rk2.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 40 rk2 model_ns_V10000_Fvar_T1024_V200_10to40_rk2.pt result_ns_V10000_Fvar_T1024_V200_10to40_rk2.pt cuda:1
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat   10 40 rk2 model_ns_Vmix_Fvar_T1024_V200_10to40_rk2.pt   result_ns_Vmix_Fvar_T1024_V200_10to40_rk2.pt   cuda:1
+
+# python fourier_3d.py ns_V1000_N5000_T50.mat        10 10 euler True model_ns_V1000_Ffix_T1024_V200_10to10_ST_euler.pt  result_ns_V1000_Ffix_T1024_V200_10to10_ST_euler.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat       10 10 euler True model_ns_V10000_Ffix_T1024_V200_10to10_ST_euler.pt result_ns_V10000_Ffix_T1024_V200_10to10_ST_euler.pt cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50_var_f.mat  10 10 euler True model_ns_V1000_Fvar_T1024_V200_10to10_ST_euler.pt  result_ns_V1000_Fvar_T1024_V200_10to10_ST_euler.pt  cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50_var_f.mat 10 10 euler True model_ns_V10000_Fvar_T1024_V200_10to10_ST_euler.pt result_ns_V10000_Fvar_T1024_V200_10to10_ST_euler.pt cuda:0
+# python fourier_3d.py ns_Vmix_N3000_T50_var_f.mat   10 10 euler True model_ns_Vmix_Fvar_T1024_V200_10to10_ST_euler.pt   result_ns_Vmix_Fvar_T1024_V200_10to10_ST_euler.pt   cuda:0
+
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_24_24_4_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_24_24_4_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_24_24_4_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0 24 24 4
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_32_32_4_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_32_32_4_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_32_32_4_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0 32 32 4
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_12_12_12_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_12_12_12_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_12_12_12_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0 12 12 12
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_12_12_24_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_12_12_24_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_12_12_24_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0 12 12 24
+# python fourier_3d.py ns_V10000_N5000_T50.mat 10 40 model_FNO3D_32_32_24_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_32_32_24_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_32_32_24_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0 32 32 24
+
+# python fourier_3d_RK2.py ns_V10000_N5000_T50.mat 10 40 model_FNO3d_rk2_ns_V10000_Ffix_T1024_V200_10to40.pt result_FNO3d_rk2_ns_V10000_Ffix_T1024_V200_10to40.pt gif_FNO3d_rk2_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V1000_N5000_T50.mat 10 40 24 1 model_AFNO3d__ns_V1000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V1000_N5000_T50.mat 10 40 24 4 model_AFNO3d__ns_V1000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V1000_N5000_T50.mat 10 40 64 1 model_AFNO3d__ns_V1000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V1000_N5000_T50.mat 10 40 64 4 model_AFNO3d__ns_V1000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 128 1 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 64 1 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 32 1 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 16 1 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 128 8 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 64 8 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 32 8 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+# python fourier_3d_Nonlinear.py ns_V10000_N5000_T50.mat 10 40 16 8 model_AFNO3d__ns_V10000_Ffix_T1024_V200_10to40.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40.mat cuda:0
+
+
+# python AFNO_3d.py    ns_V1000_N5000_T50.mat    10 40  model_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40_500.pt  result_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40_500.pt  gif_AFNO3d_ns_V1000_Ffix_T1024_V200_10to40_500.mat  cuda:0
+# python AFNO_3d.py    ns_V10000_N5000_T50.mat   10 40  model_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40_500.pt result_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40_500.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40_500.mat cuda:0
+# python fourier_3d.py ns_V1000_N5000_T50.mat    10 40  model_ns_V1000_Ffix_T1024_V200_10to40_euler_500.pt   result_ns_V1000_Ffix_T1024_V200_10to40_euler_500.pt   gif_ns_V1000_Ffix_T1024_V200_10to40_euler_500.pt    cuda:0
+# python fourier_3d.py ns_V10000_N5000_T50.mat   10 40  model_ns_V10000_Ffix_T1024_V200_10to40_euler_500.pt  result_ns_V10000_Ffix_T1024_V200_10to40_euler_500.pt  gif_ns_V10000_Ffix_T1024_V200_10to40_euler_500.pt   cuda:0
+
+python fourier_3d_inference.py ns_data_V1e-4_N20_T50_R256test.mat 10 40 model_ns_V10000_Ffix_T1024_V200_10to40_euler_500.pt gif_ns_V10000_Ffix_T1024_V200_10to40_euler_500_superR.mat cuda:0
+python AFNO_3d_inference.py ns_data_V1e-4_N20_T50_R256test.mat 10 40 model_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40_500.pt gif_AFNO3d_ns_V10000_Ffix_T1024_V200_10to40_500_superR.mat cuda:0

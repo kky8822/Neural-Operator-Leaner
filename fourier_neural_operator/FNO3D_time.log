@@ -1,0 +1,6 @@
+500 0.0025 100 0.5
+train dataset shape:  torch.Size([1000, 64, 64, 10]) torch.Size([1000, 64, 64, 40])
+test dataset shape:  torch.Size([200, 64, 64, 10]) torch.Size([200, 64, 64, 40])
+train dataset shape:  torch.Size([1000, 64, 64, 10, 4]) torch.Size([1000, 64, 64, 40])
+test dataset shape:  torch.Size([200, 64, 64, 10, 4]) torch.Size([200, 64, 64, 40])
+preprocessing finished, time used: 2.7408066615462303
